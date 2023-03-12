@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Projec.-TLofU-yellow?style=plastic&logo=appveyor"/>
+
 ### Projeto - The Last of Us
 
 ---
@@ -8,4 +10,4 @@ Esse projeto foi feito na <strong>semana do zero ao programador contratado</stro
 
 Foi preciso conhecimentos em _Html_ , _Css_ e _JavaScript_ para realizar essa tarefa.
 
-Para ver o projeto <a href="https://glitzdev.github.io/projeto-the-last-of-us/">Click aqui </a>
+Para ver o projeto <a href="https://glitzdev.github.io/projeto-the-last-of-us/" target="_blank">Click aqui</a>
