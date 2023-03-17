@@ -6,11 +6,11 @@
 
 >### Recursos
   
-  - Html
+  - _Html_
   
-  - Css
+  - _Css_
   
-  - JavaScript
+  - _JavaScript_
 
 ---
 
